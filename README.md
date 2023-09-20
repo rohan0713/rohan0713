@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohan Ramola</h1>
 <h3 align="center">A passionate programmer with strong focus on creating Native Android Applications.</h3>
 
-- 📫 How to reach me **rohanramola63@gmail.com**
+- 🔭 I’m currently working on **learning new tools that'll help me build responsive & well versed applications**
+
+- 🌱 I’m currently learning **Dagger, RxJava, Python & JS**
+
+- 📫 Reach out to me via email at **rohanramola63@gmail.com**
+
+- ⚡ Fun fact **I watch UFC every Sunday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
