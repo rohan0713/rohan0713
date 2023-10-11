@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Ramola</h1>
+<h1 align="center">Hi! I'm Rohan Ramola</h1>
 <h3 align="center">A passionate programmer with a strong focus on creating Native Android Applications.</h3>
 
 - 🔭 I’m currently working on **learning new tools that'll help me build responsive & well versed applications**
