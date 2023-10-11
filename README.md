@@ -1,18 +1,42 @@
-<h1 align="center">Hi! I'm Rohan Ramola</h1>
-<h3 align="center">A passionate programmer with a strong focus on creating Native Android Applications.</h3>
+🕊️ ******Hi! Welcome to my Github profile****** 👋
 
-- 🔭 I’m currently working on **learning new tools that'll help me build responsive & well versed applications**
+I am ******Rohan Ramola******, currently on the lookout for new opportunities in Android Application Development. If you're seeking someone for an Android Developer or Software Engineer role with a proven track record of delivering outstanding applications, I would be thrilled to connect with you. 
 
-- 🌱 I’m currently learning **Dagger, RxJava, Python & JS**
+<a href="mailto:rohanramola63@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-brightgreen" alt="Email">
+  </a>
 
-- 📫 Reach out to me via email at **rohanramola63@gmail.com**
 
-- ⚡ Fun fact **I watch UFC every Sunday**
+## Technical Skills
 
-<h3 align="left">Connect with me:</h3>
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,cpp,javascript,python,flask,nodejs,azure,firebase,linux,mongodb,github,mysql,postman,docker,grafana,html,css,react&perline=15&theme=dark)](https://skillicons.dev)
+
+## Experience in Mobile Application Development
+
+During my career journey, I have honed my skills in Android app development through a diverse range of experiences. I began as an intern, where I had the opportunity to build Android applications, gaining hands-on experience and laying the foundation for my expertise. 
+
+As a freelancer, I leveraged my talents to create high-quality Android applications for clients, delivering solutions that met their unique needs. This experience further enhanced my proficiency in app development.
+
+Beyond my professional roles, I have dedicated time to personal projects, fostering creativity and innovation in Android application development. These projects not only reflect my passion for the field but also showcase my ability to tackle diverse challenges and bring ideas to life.
+
+## Android Skills
+
+- Proficient in developing mobile applications for Android using Kotlin and Java.
+- Strong skills in UI design for Android applications.
+- Proficiency in different architectural patterns like MVC and MVVM.
+- Worked with popular Android libraries and tools like Retrofit, Firebase, HILT, Event Bus, Picasso, Room, Glide, and Material Design.
+- Knowledge of web service architecture and integration, with a focus on RESTful web services and HTTP networking.
+- Experienced in publishing applications on the Google Play Store, including the app submission and review process.
+
+## About Me
+- 👨‍💻 I'm a passionate programmer with a strong focus on creating native Android applications.
+- 🔭 I'm currently working on learning new tools and technologies required for Software Development.
+- 🌱 I'm currently learning Dagger, RxJava, Python, and JavaScript.
+- ⚡ Fun fact: I watch UFC every Sunday.
+
+## Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/rohanramola13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohanramola13" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rohanramola13" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
-
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
