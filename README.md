@@ -30,8 +30,8 @@ Beyond my professional roles, I have dedicated time to personal projects, foster
 
 ## About Me
 - 👨‍💻 I'm a passionate programmer with a strong focus on creating native Android applications.
-- 🔭 I'm currently working on learning new tools and technologies required for Software Development.
-- 🌱 I'm currently learning Dagger, RxJava, Python, and JavaScript.
+- 🔭 I'm currently working on learning new tools and technologies required for Android Application Development.
+- 🌱 I'm currently learning Dagger & Jetpack Compose.
 - ⚡ Fun fact: I watch UFC every Sunday.
 
 ## Connect with Me
